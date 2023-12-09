@@ -4,8 +4,6 @@ _Leia em Português: [Português](README.pt.md)._
 
 In this project we will show your victory balance and indicate your hero level
 
-Neste projeto vamos exibir o seu saldo de vitórias e indicar o nível do seu herói
-
 ## Quick Start
 
 To run this project, follow the simple steps:
